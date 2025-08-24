@@ -68,7 +68,7 @@ Deleted underperforming students and updated grades conditionally.
 Modified schema by renaming and dropping columns.
 Analysis revealed that Mumbai had students with higher average marks compared to Pune and Delhi, while Delhi had more students with both top and low performances.
 
-**Vrinda1 Store Data Analysis into ( MS Excel)**
+**Vrinda1 Store Data Analysis into (MS Excel)**
 
 **Goal**: To analyze Vrinda Store's 2022 performance and identify key factors driving sales and customer behavior.
 
